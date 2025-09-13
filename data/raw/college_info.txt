@@ -1,0 +1,351 @@
+Founder: Dr. G.T. Raju established BGS College of Engineering and Technology in 2022 under the BGSKH Education Trust, affiliated with Sri Adichunchanagiri Shikshana Trust (SAST).
+
+College History: BGSCET was founded with the vision to provide quality technical education and to contribute to the development of the nation by producing competent engineers.
+
+Campus Location: The college is situated adjacent to Mahalakshmi Metro Station, Mahalakshmipuram, Bengaluru, Karnataka 560086.
+
+Principal: Dr. G K Ravikumar, PhD in Computer Science, with 20+ years of experience in academia.
+He has been leading BGS College of Engineering and Technology since 2022, focusing on research-driven education.
+
+
+Courses Offered:
+- B.E. in Computer Science and Engineering
+- B.E. in Information Science and Engineering
+- B.E. in Computer Science and Design
+- B.E. in Artificial Intelligence and Machine Learning
+- B.E. in Artificial Intelligence and Data Science
+- MBA with specializations in Finance, Marketing, Human Resources, and Business Analytics
+
+Admission Process:
+- B.E. Admissions: Based on entrance exams such as KCET, COMEDK UGET, and JEE Main.
+- MBA Admissions: Based on PGCET and KMAT scores.
+
+Department Heads:
+- Dr. Manjula – Head of Computer Science and Engineering Department
+- A. Kumar – Head of Information Science and Engineering Department
+- Dr. Jalja – Head of Artificial Intelligence and Machine Learning Department
+- Dr. Parvati – Head of Artificial Intelligence and Data Science Department
+- Dr. M. Joshi – Head of Management Studies Department
+- Dr. Madhu Patil – Head of Computer Science and Design Department
+
+
+Facilities:
+- Smart Classrooms equipped with projectors and audio-visual aids
+- Well-stocked Library with over 3,400 volumes and access to national and international journals
+- State-of-the-art Laboratories for each department
+- Auditorium for seminars, workshops, and cultural events
+- Sports Complex with facilities for indoor and outdoor games
+- Hostel accommodations for both boys and girls
+- Canteen offering a variety of food options
+- Health Centre with basic medical facilities
+- Bank and ATM services on campus
+- Wi-Fi enabled campus for seamless internet access
+
+Campus Life:
+- Annual Tech Fest: InnovateX, showcasing student projects and innovations
+- Cultural Fest: Festanza, celebrating arts, music, and dance
+- Sports Events: Regular inter-departmental and inter-college sports competitions
+- Clubs and Societies: Robotics Club, Coding Club, Literary Club, Cultural Club, and more
+- Industry Visits and Internships to provide real-world exposure
+- Guest Lectures and Workshops by industry experts and academicians
+
+Placements:
+- Dedicated Placement Cell assisting students in securing internships and job placements
+- Regular training sessions on soft skills, aptitude, and technical skills
+- Tie-ups with leading companies for campus recruitment
+
+Affiliations and Accreditations:
+- Affiliated with Visvesvaraya Technological University (VTU), Belagavi
+- Approved by All India Council for Technical Education (AICTE), New Delhi
+- Recognized by the Government of Karnataka
+
+Vision:
+To be a premier institution in the field of engineering and technology, fostering innovation, research, and holistic development of students.
+
+Mission:
+To impart quality education, promote research and development, and produce skilled professionals who can contribute to the technological advancement of the nation.
+
+Alumni:
+- Mr. R. Kumar – Software Engineer at Infosys
+- Ms. S. Verma – Data Scientist at Wipro
+- Mr. A. Patel – Entrepreneur, Founder of TechSolutions Pvt Ltd
+
+Collaborations:
+- MoUs with leading tech companies for research and development
+- Academic collaborations with international universities for student exchange programs
+- Industry partnerships for internships and placements
+
+Research and Development:
+- Active participation in national and international conferences
+- Publication of research papers in reputed journals
+- Projects funded by government and private agencies
+
+Sustainability Initiatives:
+- Solar panels installed to reduce carbon footprint
+- Rainwater harvesting systems in place
+- Waste management and recycling programs
+- Green campus with tree plantation drives
+
+Community Engagement:
+- Outreach programs in nearby villages for education and awareness
+- Blood donation camps organized regularly
+- Health check-up camps for the local community
+
+Awards and Recognitions:
+- Best Emerging Engineering College Award 2023
+- Excellence in Teaching Award 2024
+- Best Campus Infrastructure Award 2025
+
+Notable Events:
+- Inauguration of the new AI and ML Lab in 2023
+- Launch of the Entrepreneurship Cell in 2024
+- Hosting of the National Robotics Championship in 2025
+
+Student Testimonials:
+- "BGSCET has provided me with the platform to explore my interests and excel in my field." – A. Sharma, B.E. CSE
+- "The faculty here are supportive and always encourage innovation." – R. Mehta, B.E. AI & ML
+- "The campus life is vibrant, and there are ample opportunities for personal and professional growth." – S. Rao, MBA
+
+Campus Infrastructure:
+- Modern architecture with spacious buildings
+- Well-maintained green spaces and recreational areas
+- Accessibility features for differently-abled students
+- Ample parking space for students and staff
+
+Safety and Security:
+- 24/7 security personnel on campus
+- CCTV surveillance in all critical areas
+- Emergency helpline numbers displayed prominently
+- Regular safety drills and awareness programs
+
+Transportation:
+- College buses covering various routes across the city
+- Proximity to Mahalakshmi Metro Station for easy commute
+- Tie-ups with local transport services for student convenience
+
+International Exposure:
+- Student exchange programs with partner universities abroad
+- Opportunities for internships in international companies
+- Participation in global conferences and workshops
+
+Entrepreneurship Support:
+- Incubation center for start-ups and innovative projects
+- Mentorship from industry experts and alumni
+- Funding opportunities for promising business ideas
+
+Cultural Diversity:
+- Students from various parts of India and abroad
+- Celebration of regional festivals and cultural events
+- Multilingual environment fostering inclusivity
+
+Academic Excellence:
+- Consistent top rankings in VTU examinations
+- High percentage of students securing university ranks
+- Research projects recognized at national and international levels
+
+Social Responsibility:
+- Initiatives to promote gender equality and inclusivity
+- Programs to raise awareness about mental health
+- Campaigns to promote environmental sustainability
+
+Networking Opportunities:
+- Alumni meetups and networking events
+- Industry-academia interaction sessions
+- Collaborative projects with other institutions and organizations
+
+Future Plans:
+- Introduction of new courses in emerging technologies
+- Expansion of campus facilities and infrastructure
+- Strengthening of industry partnerships and collaborations
+
+Contact Information:
+- Address: CA Site No. 6 & 7, 3rd Main Pipeline Road, Chord Rd, Adjacent to Mahalakshmi Metro Station, 2nd Phase, Stage 2, Mahalakshmipuram, Bengaluru, Karnataka 560086
+- Phone: +91-9731292555, 9964897207
+- Email: info@bgscet.ac.in
+- Website: https://bgscet.ac.in/
+
+
+============================
+CSE (Computer Science and Engineering)
+============================
+1st Year
+- Engineering Mathematics-I
+- Engineering Physics
+- Programming in C
+- Basic Electrical Engineering
+- Communication Skills
+
+2nd Yeara
+- Data Structures
+- Computer Organization
+- Discrete Mathematics
+- Operating Systems
+- Object-Oriented Programming (C++)
+
+3rd Year
+- Database Management Systems
+- Computer Networks
+- Design and Analysis of Algorithms
+- Software Engineering
+- Artificial Intelligence
+
+4th Year
+- Compiler Design
+- Machine Learning
+- Cloud Computing
+- Big Data Analytics
+- Cybersecurity
+
+
+============================
+ISE (Information Science and Engineering)
+============================
+1st Year
+- Engineering Mathematics-I
+- Engineering Chemistry
+- Programming in C
+- Basic Electronics
+- Environmental Science
+
+2nd Year
+- Data Structures
+- Computer Organization & Architecture
+- Probability & Statistics
+- Web Technologies
+- Operating Systems
+
+3rd Year
+- Database Management Systems
+- Computer Networks
+- Theory of Computation
+- Software Engineering
+- Machine Learning
+
+4th Year
+- Cloud Computing
+- Artificial Intelligence
+- Internet of Things (IoT)
+- Cybersecurity
+- Data Mining
+
+
+============================
+AIML (Artificial Intelligence & Machine Learning)
+============================
+1st Year
+- Engineering Mathematics-I
+- Engineering Physics
+- Programming in C
+- Basic Electrical Engineering
+- Communication Skills
+
+2nd Year
+- Data Structures
+- Linear Algebra & Probability
+- Object-Oriented Programming
+- Operating Systems
+- Web Technologies
+
+3rd Year
+- Database Management Systems
+- Computer Vision
+- Natural Language Processing
+- Machine Learning
+- Deep Learning
+
+4th Year
+- Reinforcement Learning
+- Cloud & Edge AI
+- Ethics in AI
+- Big Data Analytics
+- Cybersecurity for AI
+
+
+============================
+AIDS (Artificial Intelligence & Data Science)
+============================
+1st Year
+- Engineering Mathematics-I
+- Engineering Chemistry
+- Programming in Python
+- Basic Electronics
+- Communication Skills
+
+2nd Year
+- Data Structures
+- Probability & Statistics
+- Database Management Systems
+- Operating Systems
+- Object-Oriented Programming (Java)
+
+3rd Year
+- Machine Learning
+- Data Mining & Warehousing
+- Big Data Technologies
+- Natural Language Processing
+- Computer Networks
+
+4th Year
+- Deep Learning
+- Artificial Intelligence Applications
+- Cloud Computing
+- Data Security & Privacy
+- Capstone Project
+
+
+============================
+CSD (Computer Science & Design)
+============================
+1st Year
+- Engineering Mathematics-I
+- Engineering Physics
+- Programming in C
+- Basic Electrical Engineering
+- Design Thinking
+
+2nd Year
+- Data Structures
+- Human–Computer Interaction
+- Computer Graphics
+- Operating Systems
+- Object-Oriented Programming
+
+3rd Year
+- Database Management Systems
+- UI/UX Design Principles
+- Computer Networks
+- Software Engineering
+- Artificial Intelligence
+
+4th Year
+- Virtual Reality & Augmented Reality
+- Machine Learning
+- Web & Mobile App Development
+- Cybersecurity
+- Creative Design Project
+
+
+Company Dataset - Campus Drive
+========================================
+
+1. Infosys
+2. TCS (Tata Consultancy Services)
+3. Wipro
+4. Accenture
+5. Capgemini
+6. Cognizant
+7. IBM
+8. HCL Technologies
+9. Tech Mahindra
+10. MindTree
+11. LTI (Larsen & Toubro Infotech)
+12. Oracle
+13. SAP Labs
+14. Dell Technologies
+15. Microsoft
+16. Amazon
+17. Google
+18. Adobe
+19. Goldman Sachs
+20. JP Morgan Chase & Co.
+
